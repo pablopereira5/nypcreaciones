@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color: #004aad;
+}
+.navbar{
+    padding-top: 0;
+}
+.nav-link{
+    color: white;
+}
