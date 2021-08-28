@@ -13,3 +13,13 @@ body{
 .nav-link{
     color: white;
 }
+.d-block{
+    
+
+    opacity: .6;
+}
+ .text-slide{
+    color:white;
+    font-size: 70px;
+    margin-left: 30px;
+}
