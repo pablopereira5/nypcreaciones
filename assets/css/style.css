@@ -19,9 +19,7 @@ body{
     color: white;
 }
 .d-block{
-    
-
-    opacity: .6;
+    filter: brightness(50%);
 }
  .text-slide{
     color:white;
