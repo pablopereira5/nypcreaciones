@@ -27,3 +27,18 @@ body{
     
     overflow-x: clip;
 }
+.mision{
+    display: flex;
+}
+.row1{
+    width: 50%;
+}
+.title-mision{
+    text-align: center;
+}
+.row2{
+    width: 50%;
+}
+.vision{
+    display: flex;
+}
